@@ -1,0 +1,26 @@
+{
+  "id": "wumbles-item-macros",
+  "title": "WumbleMinky's Item Macros",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "esmodules": [
+    "modules/main.js"
+  ],
+  "authors": [
+    {
+      "name": "WumbleMinky",
+      "discord": "wumbleminky"
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system"
+      }
+    ]
+  }
+}
